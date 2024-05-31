@@ -52,5 +52,5 @@ Contributions to this project are welcome. If you find any issues or have sugges
 
 ## Acknowledgments
 
-- The dataset used in this project is provided by [Source].
+- The dataset used in this project is provided by[(https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)].
 - The project utilizes the following open-source libraries: NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn.
