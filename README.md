@@ -46,11 +46,11 @@ The script will output a scatter plot displaying the customer clusters and their
 
 The results can be used to segment customers based on their income and spending habits, allowing businesses to tailor their marketing strategies and product offerings to specific customer groups.
 
-Contributing
+## Contributing
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
- Acknowledgments
+## Acknowledgments
 
 - The dataset used in this project is provided by [Source].
 - The project utilizes the following open-source libraries: NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn.
